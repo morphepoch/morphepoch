@@ -30,7 +30,7 @@ working between product thinking, user insight, and aesthetic systems.
 
 ---
 
-## Metamorphosis
+## 🦋Metamorphosis
 
 This is a code-and-thought space for exploring the intersection of **AI & Aesthetics**.
 
@@ -46,16 +46,12 @@ Here lives my ongoing exploration of **AI & Aesthetics**:
 
 ---
 
-## What I Explore
+## 🎨What I Explore
 
 - AI product thinking
 - user insight and interaction design
 - prompt / context / harness engineering
 - aesthetic systems and poetic interfaces
-- code, writing, and structured imagination
+- code, writing, and structured imagination https://github.com/morphepoch/Metamorphosis
 
 ---
-
-## Current Mood
-
-**Where code becomes poetry, and AI finds beauty.**
