@@ -10,9 +10,9 @@ a space for everything about **AI & Aesthetics**
 
 <br />
 
-**Meta-**: the meta, the beyond, a world within worlds.  
-**Morph / Morpho-**: the butterfly, form, and transformation.  
-**-epoch**: an era, a new unfolding age.
+**🛸 Meta-**: the meta, the beyond, a world within worlds.  
+**🦋 Morph / Morpho-**: the butterfly, form, and transformation.  
+**📟 epoch**: an era, a new unfolding age.
 
 So this is **morphepoch** —  
 a butterfly-shaped epoch of becoming.
